@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "courseId": "kymind-live-question-134",
+  "repository": "kaiyuantest/kymind-live-question-134",
+  "repositoryId": "R_kgDOVy3JVA",
+  "categoryId": "DIC_kwDOVy3JVM4DLaDG",
+  "entries": [
+    {
+      "anchor": {
+        "anchorType": "mindmap-node",
+        "sourceMapId": "134",
+        "nodeId": "r-134"
+      },
+      "discussionId": "D_kwDOVy3JVM4ArYkE",
+      "discussionNumber": 1,
+      "discussionUrl": "https://github.com/kaiyuantest/kymind-live-question-134/discussions/1",
+      "createdAt": 1795340306063
+    }
+  ]
+}
